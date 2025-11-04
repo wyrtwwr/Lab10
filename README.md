@@ -22,7 +22,7 @@
 6. Конец программы
    
 ### Блок-схема
-<img width="122" height="421" alt="Диаграмма без названия drawio" src="https://github.com/wyrtwwr/Lab9/blob/main/Lab9_chema.jpg" />
+<img width="122" height="421" alt="Диаграмма без названия drawio" src="https://github.com/wyrtwwr/Lab10/blob/main/chema10.png" />
 
 ## 2. Реализация программы
 
@@ -154,4 +154,4 @@ int main() {
 ```
 
 
-<img src="https://github.com/wyrtwwr/Lab9/blob/main/lab9_progs.jpg" width="981" height="266">
+<img src="https://github.com/wyrtwwr/Lab10/blob/main/Lab10_code.jpg" width="981" height="266">
